@@ -1,0 +1,7 @@
+{
+  "name": "Graghql Modules API",
+  "version": "1.0.0",
+  "description": "Graphql Modules REST API server documentations.",
+  "title": "Custom apiDoc browser title",
+  "url": "http://localhost:4000/v1/api"
+}
